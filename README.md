@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: pcalg_2.6.10
 
 PluMA plugin that runs the Fast Causal Inference (FCI)  algorithm for causal relations (Spirtes et al, 1993).
 
